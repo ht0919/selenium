@@ -18,6 +18,14 @@ $ gem install selenium-webdriver
 $ brew install chromedriver
 ```
 
+## 実行手順
+
+```
+$ git clone https://github.com/ht0919/selenium.git
+$ cd selenium
+$ ruby selenium_test.rb
+```
+
 ## 実装内容
 
 ```
